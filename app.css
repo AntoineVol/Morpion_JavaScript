@@ -1,7 +1,11 @@
-h1{
+form{
+    margin: auto;
+}
+h1, h2{
 
     text-align: center;
 }
+
 
 td {
     height: 100px;
@@ -33,3 +37,4 @@ td {
     text-Align:center;
     margin:auto;
 }
+
